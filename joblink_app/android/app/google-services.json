@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1096260298526",
+    "project_id": "joblink-7aebf",
+    "storage_bucket": "joblink-7aebf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096260298526:android:24d8b026414a55c7fd8b0f",
+        "android_client_info": {
+          "package_name": "com.company.joblink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQe3_CtTbieKKoaQoJpanbEveaHMfzIIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096260298526:android:bd633b591bdfc4e6fd8b0f",
+        "android_client_info": {
+          "package_name": "com.company.joblinkapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQe3_CtTbieKKoaQoJpanbEveaHMfzIIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096260298526:android:4432a161ab6e9469fd8b0f",
+        "android_client_info": {
+          "package_name": "com.example.joblink_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQe3_CtTbieKKoaQoJpanbEveaHMfzIIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
